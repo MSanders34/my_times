@@ -12,18 +12,15 @@ header{
 
 } */
 
-.logo,
-img{
+.logo, img{
   margin-right: 5px;
 }
 
-.logo,
-h1{
+.logo, h1{
   color: MediumAquamarine;
 }
 
-header,
-nav{
+header, nav{
   color: black;
 }
 /*
