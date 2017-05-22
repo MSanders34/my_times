@@ -1,3 +1,33 @@
 html{
   font-family: Helvetica, sans-serif;
 }
+
+header{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+/*
+.logo{
+
+} */
+
+.logo,
+img{
+  margin-right: 5px;
+}
+
+.logo,
+h1{
+  color: MediumAquamarine;
+}
+
+header,
+nav{
+  color: black;
+}
+/*
+header,
+a{
+
+} */
